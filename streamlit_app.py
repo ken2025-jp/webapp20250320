@@ -20,7 +20,7 @@ def self_esteem_diagnosis(responses):
     responses: 各質問の回答（1〜5のリスト）
     """
     categories = {
-        "自己受容": [0, 1, 2],
+        "自己受容aaa": [0, 1, 2],
         "自己効力感": [3, 4, 5],
         "自己信頼": [6, 7, 8],
         "自己尊重": [9, 10, 11],
