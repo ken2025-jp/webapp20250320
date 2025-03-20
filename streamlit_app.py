@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
+import japanize_matplotlib as plt
 import sys
 
 # 環境チェック
